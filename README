@@ -1,0 +1,3 @@
+This is a Python implementation of the Restrictive Precise Angle Shadowcasting described here: http://roguebasin.roguelikedevelopment.org/index.php?title=Restrictive_Precise_Angle_Shadowcasting
+
+Utilizes Python 2.72. Algorithm is contained in rpas.py. To see the algorithm in action, run example.py. It will display once with the most restrictive settings, and once with the least restrictive settings.
